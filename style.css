@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Sintony&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    /* background-color: rgba(136, 207, 255, 0.788); */
+    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Sintony', sans-serif; */
+}
+
+.head {
+    padding: 5px;
+    background-color: #FBAB7E;
+    background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+    text-align: center;
+}
+
+.head img {
+    width: 10%;
+    border-radius: 50%;
+}
+
+.head .text {
+    margin-left: 10px;
+}
+
+
+
+.body {
+    margin: 0;
+    color: black;
+    font-weight: bold;
+    background-color: #74EBD5;
+    background-image: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
+
+    padding: 2%;
+    font-family: 'Sintony', sans-serif;
+}
+
+nav {
+    width: 100%;
+    display: flex;
+}
+
+nav a {
+    width: 100%;
+    text-decoration: none;
+    padding: 15px 25px;
+    text-align: center;
+    background-color: rgb(189, 185, 185);
+    color: #464141;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+nav a:hover {
+    background-color: #777777;
+    color: #ffffff;
+}
+
+.form2 {
+    display: flex;
+}
+
+#query {
+    padding: 1%;
+    margin: 0;
+    width: 50%;
+}
+
+input[type=text],
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid rgb(78, 47, 47);
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #12e99a;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #456fa0;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #fff495;
+    padding: 20px;
+}
+
+.container-box {
+    padding: 2%;
+    text-align: center;
+    background: rgb(232, 238, 232);
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-info{
+    padding:2%;
+}
+
+.form {
+    text-align: center;
+    padding: 1%;
+    background-color: rgb(14, 140, 243);
+}
+
+footer {
+    padding: 2px;
+    text-align: center;
+    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+}
+
+@media screen and(max-width: 1800px) {
+    #contact,#query{
+        width: 150px;
+        display:flexbox;
+        height:min-content;
+        padding: 2px;
+    }
+    .text p{
+        font-size: 20px;
+    }
+    .logo{
+        width: 200px;
+        size: 20%;
+    }
+}
