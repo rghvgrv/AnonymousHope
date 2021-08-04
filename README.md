@@ -1,10 +1,9 @@
 # AnonymousHope
-SPARKS Foundation <br>
-The Sparks Foundation Internship Project : Payment Gateway Integration
-A Dynamic Website is used to collect Donation for Covid Victims.
-Front-end : HTML, CSS, Bootstrap & Javascript
+Project : Payment Gateway Integration<br>
+A Dynamic Website is used to collect Donation for Covid Victims.<br>
+Front-end : HTML, CSS, Bootstrap & Javascript<br>
 Back-end : PHP
-
+<br>
 The Database contains Razorpay
 The payment method have basic fields such as amount, name, email & contact no.
 The doner recieves the transaction Mail within seconds after successful payment
