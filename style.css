@@ -61,6 +61,7 @@ nav a:hover {
 
 .form2 {
     display: flex;
+   background-image: linear-gradient(-225deg, #5D9FFF 0%, #B8DCFF 48%, #6BBBFF 100%);
 }
 
 #query {
@@ -97,14 +98,12 @@ input[type=submit]:hover {
 
 .container {
     border-radius: 5px;
-    background-color: #fff495;
     padding: 20px;
 }
 
 .container-box {
     padding: 2%;
     text-align: center;
-    background: rgb(232, 238, 232);
     width: 50%;
     display: flex;
     flex-direction: column;
