@@ -10,13 +10,12 @@ The doner recieves the transaction Mail within seconds after successful payment
 The website is FULL RESPONSIVE
 It can operate on any device
 <br>
+
+##Links
 Project Link :- https://rghvgrv.github.io/AnonymousHope/
 
 ##Screenshots
-1. Home Page
 ![image](https://user-images.githubusercontent.com/71788323/128918436-da908677-7a86-4499-94df-9c54cfdf30d1.png)
-<br>
-2.Donation and Contact Page
 ![image](https://user-images.githubusercontent.com/71788323/128918855-41959e9e-f983-42e1-b6e6-34f64d38d87b.png)
 
  
