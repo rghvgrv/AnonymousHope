@@ -14,7 +14,7 @@ Project Link :- https://rghvgrv.github.io/AnonymousHope/
 
 ##Screenshots
 1. Home Page
-![image](https://user-images.githubusercontent.com/71788323/128918260-b20a3fd7-a772-46bb-a4c1-21adf1f2cb8c.png)
+![image](https://user-images.githubusercontent.com/71788323/128918436-da908677-7a86-4499-94df-9c54cfdf30d1.png)
 <br>
 2.Donation and Contact Page
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/71788323/128918511-5c14024d-e733-4617-b4b9-63d0c4bf2dba.png)
