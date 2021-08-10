@@ -1,7 +1,6 @@
 # Anonymous Hope
-Project : Payment Gateway Integration<br>
 A Dynamic Website is used to collect Donation for Covid Victims.<br>
-Front-end : HTML, CSS, Bootstrap & Javascript<br>
+Technology Used :- HTML, CSS, Bootstrap & Javascript<br>
 <br>
 The Database contains Razorpay
 The payment method have basic fields such as amount, name, email & contact no.
