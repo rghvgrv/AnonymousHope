@@ -4,7 +4,7 @@ Technology Used :- HTML, CSS, Bootstrap & Javascript<br>
 <br>    
 The Database contains Razorpay
 The payment method have basic fields such as amount, name, email & contact no.
-The doner recieves the transaction Mail within seconds after successful payment
+The doner recieves the transaction Mail within seconds after successful payment 
 
 The website is FULL RESPONSIVE
 It can operate on any device
